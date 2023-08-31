@@ -56,4 +56,4 @@ class AuthApi {
 	}
 }
 
-export const authApi = new AuthApi('http://localhost:3000');
+export const authApi = new AuthApi('http://api.senstorage.nomoredomainsicu.ru');
