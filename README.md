@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 158.160.6.116
+IP-адрес 158.160.006.116
 
 Frontend https://senstorage.nomoredomainsicu.ru
 
