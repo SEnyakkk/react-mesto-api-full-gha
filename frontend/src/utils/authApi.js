@@ -56,4 +56,4 @@ class AuthApi {
 	}
 }
 
-export const authApi = new AuthApi('http://api.senstorage.nomoredomainsicu.ru');
+export const authApi = new AuthApi('https://api.senstorage.nomoredomainsicu.ru');

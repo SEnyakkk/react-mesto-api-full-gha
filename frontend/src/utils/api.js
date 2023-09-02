@@ -98,7 +98,7 @@ export class Api {
 }
 
 export const api = new Api({
-  baseUrl: 'http://api.senstorage.nomoredomainsicu.ru',
+  baseUrl: 'https://api.senstorage.nomoredomainsicu.ru',
   // headers: {
   //   authorization: '03443a56-2e96-4faf-ad23-ecb69850558d',
   //   'Content-Type': 'application/json'
