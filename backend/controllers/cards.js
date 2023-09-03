@@ -19,7 +19,7 @@ module.exports.addCard = (req, res, next) => {
 };
 
 module.exports.getCards = (req, res, next) => {
-  Card.find({})
+  Card.find({}).sort({ createdAd: -1 })
     // .populate(['owner', 'likes'])
     .then((cards) => res.send(cards))
     .catch(next);
